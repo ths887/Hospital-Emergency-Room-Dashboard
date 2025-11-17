@@ -22,7 +22,9 @@ ER visit trends
 
 Below is a snapshot of the interactive Power BI dashboard created for Hospital Emergency Dashbaord 👇  
 
+![Hospital Emergency Dashboard Preview](https://github.com/ths887/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.png)
 ![Hospital Emergency Dashboard Preview](https://github.com/ths887/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard%20image2.png)  
+
 
 ---
 ## 🛠️ Tools & Tech
